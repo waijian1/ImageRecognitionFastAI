@@ -12,8 +12,7 @@ This project is a categorical image recognition model built using Fastai and Res
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/waijian1/categorial-image-recognition-fastai.git
-   cd categorial-image-recognition-fastai
+   git clone https://github.com/waijian1/ImageRecognitionFastAI.git
    ```
 
 2. Install the required packages:
