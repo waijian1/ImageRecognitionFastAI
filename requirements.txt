@@ -1,0 +1,6 @@
+fastai
+torch
+icrawler
+pandas
+numpy
+matplotlib
