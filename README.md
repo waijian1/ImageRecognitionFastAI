@@ -2,6 +2,8 @@
 
 This project is a categorical image recognition model built using Fastai and ResNet architecture. It includes steps to download images, preprocess them, and train a model to classify images into multiple categories.
 
+[Project Demo](https://huggingface.co/spaces/waijianlim/image-recognition-5-categories?logs=container)
+
 ## Project Structure
 
 - `categorial-image-recognition-fastai.ipynb`: Jupyter Notebook containing the model training and evaluation code.
